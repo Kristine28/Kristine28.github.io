@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+
+    <title> Biodata </title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script type="text/javascript" src="main.js"></script>
+    <link href="https://fonts.googleapis.com/css?family=Handlee" rel="stylesheet">
+    </head>
+
+    <body>
+        <!-- header start -->
+        <div id="header" class="section">
+            <div class="container style=" align="center" ;>
+                <img src="https://i.ibb.co/7vX5Kzt/received-509682217642360.jpg" class="img-circle" alt="avatar" width="140" height="150">
+            </div>
+            <p>
+                Biodata
+            </p>
+        </div>
+        <!-- header end -->
+
+        <!-- About Me section start -->
+        <div class="section">
+            <h1><span>Personal Information</span></h1>
+            <table id=#biodata>
+                <tr>
+                    <th> Name </th>
+                    <td> <b>Kristine Jean Dela Cruz</b> </td>
+                </tr>
+                <tr>
+                    <th> Birthdate </th>
+                    <td>June 22, 2003</td>
+                </tr>
+                <tr>
+                    <th> Birthplace </th>
+                    <td>Purok 4, New Pangasinan, Isulan, Sultan Kudarat</td>
+                </tr>
+                <tr>
+                    <th> Status </th>
+                    <td>Single</td>
+                </tr>
+                <tr>
+                    <th> Height </th>
+                    <td>154.94cm(5`1)</td>
+                </tr>
+                <tr>
+                    <th> Religion </th>
+                    <td>Born Again</td>
+                </tr>
+                <tr>
+                    <th> Citizenship </th>
+                    <td>Filipino</td>
+                </tr>
+                </tr>
+                <tr>
+                    <th> Language </th>
+                    <td>Tagalog, English</td>
+                </tr>
+                <tr>
+                    <th> Mother Tongue </th>
+                    <td>Ilocano</td>
+                </tr>
+                <tr>
+                    <th> Father's Name </th>
+                    <td>Cornado B. Dela Cruz</td>
+                </tr>
+                <tr>
+                    <th> Mother's Name </th>
+                    <td>Aurelia B. Dela Cruz</td>
+                </tr>
+                <tr>
+                    <th> Address </th>
+                    <td>Purok 4, New Pangasinan, Isulan, Sultan Kudarat</td>
+                </tr>
+
+
+            </table>
+            <!-- About Me section end -->
+
+
+            <!-- My Skills section start -->
+            <div class="section">
+                <h1><span>Objective</span></h1>
+                <table>
+
+                    <td>
+                        <p style align="center" ;>Biologist with both field and laboratory experience searching a new position with opportunities for advancement</p>
+                    </td>
+                    </tr>
+
+
+                </table>
+                <div class="section">
+                    <h1><span>EDUCATION</span></h1>
+                    <table id=#biodata>
+                        <tr>
+                            <th>Elementary: </th>
+                            <td> <b>New Pangasinan Elementary School</b> </td>
+                        </tr>
+                        <tr>
+                            <th>High School: </th>
+                            <td>New Pangasinan National High School</td>
+                        </tr>
+                        <tr>
+                            <th>Senior High School: </th>
+                            <td>New Pangasinan National High School</td>
+                        </tr>
+
+                    </table>
+                    <!-- My Skills section end -->
+
+
+
+
+
+                    <!-- Project section end -->
+
+                    <!-- Form section start -->
+
+
+                    <!-- Contacts section start -->
+                    <div class="section" id="contacts">
+                        <h1><span>Follow Me</span></h1>
+                        <div>
+
+                            <a href="https://www.facebook.com/profile.php?id=100033513736374" target="_blank" class="fa fa-facebook"></a>
+
+                            <a href="https://www.instagram.com/G1Joshi" target="_blank" class="fa fa-instagram"></a>
+                        </div>
+                    </div>
+                    <!-- Contacts section end -->
+
+                    <div class="copyright">
+                        2022- 2023
+                    </div>
+
+    </body>
+
+</html>
