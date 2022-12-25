@@ -1,0 +1,175 @@
+body {
+    background: linear-gradient(to right, violet, pink);
+    font-size: 15pt;
+    background-size: cover;
+    text-align: center;
+}
+
+img {
+    text-align: center;
+}
+
+h1 {
+    font-size: 15pt;
+    color: black;
+    text-align: center;
+    padding: 18px 0 18px 0;
+    margin: 0 0 10px 0;
+}
+
+h1 span {
+    border: 7px ridge gray;
+    color: pink;
+    background: black;
+    padding: 7px;
+}
+
+p {
+    padding: 0;
+    margin: 0;
+}
+
+.img-circle {
+    border: 3px solid white;
+    border-radius: 50%;
+}
+
+.section {
+    background-color: Purple;
+    padding: 10px;
+    border: 3px groove black;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
+#header img {
+    width: 100px;
+    height: 100px;
+    margin: auto;
+}
+
+#header p {
+    font-size: 25pt;
+    color: #fff;
+    padding-top: 5px;
+    margin: 0;
+    font-weight: bold;
+    text-align: center;
+}
+
+#project {
+    text-align: center;
+}
+
+.quote {
+    font-size: 12pt;
+    text-align: right;
+    margin-top: 10px;
+}
+
+table {
+    width: 100%;
+}
+
+table,
+th,
+td {
+    border: 2px solid #cecece;
+    border-collapse: collapse;
+    text-align: center;
+    table-layout: fixed;
+}
+
+li {
+    margin-bottom: 15px;
+    font-weight: bold;
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    background: #f36f48;
+}
+
+form {
+    text-align: center;
+    margin-top: 0;
+}
+
+.submit {
+    background-color: #1a8cff;
+    padding: 12px 45px;
+    border-radius: 5px;
+    cursor: pointer;
+    color: #ffffff;
+    border: none;
+    outline: none;
+    margin: 0;
+    font-weight: bold;
+}
+
+.submit:hover {
+    background-color: #43a09d;
+}
+
+textarea {
+    height: 100px;
+}
+
+input,
+textarea {
+    margin-bottom: 10px;
+    font-size: 11pt;
+    padding: 15px 10px 10px;
+    border: 1px solid #cecece;
+    background-color: #efefef;
+    color: #787575;
+    border-radius: 5px;
+    width: 70%;
+    outline: none;
+}
+
+.copyright {
+    font-size: 8pt;
+    text-align: right;
+    padding-bottom: 10px;
+    color: #cce6ff;
+}
+
+#contacts {
+    text-align: center;
+    font-size: 25px;
+}
+
+.fa {
+    padding: 15px;
+    min-width: 25px;
+    height: auto;
+    text-decoration: none;
+    margin: 5px 3px;
+    border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+
+.fa-linkedin {
+    background: #007bb5;
+    color: white;
+}
+
+.fa-instagram {
+    background: #125688;
+    color: white;
+}
